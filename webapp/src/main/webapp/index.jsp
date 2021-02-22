@@ -1,3 +1,3 @@
-<h1> Hello, Welcome to DevOps Project !!   </h1>
-<h2> Deploying on a automation </h2>
+<h1> Hello, Welcome to DevOps Project   </h1>
+<h2> Deploying on a automation VM test </h2>
 <h2> Glad to see you here :) </h2>

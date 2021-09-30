@@ -1,2 +1,3 @@
 <h1> Hello, welcome to the DevOps Project   </h1>
-<h2> Deploy on container using ansible remove and recreate resources </h2>
+<h2> Deploy on container using ansible  </h2>
+<h3> Test jenkins automation change in src code triggers poll scm and ansible playbooks </h3> 
